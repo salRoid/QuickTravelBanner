@@ -114,6 +114,7 @@ h1 {
 	.retro-print {
 		width: 16rem;
 		height: 20rem;
+		margin-left: 15%;
 	}
 
 	.my-photo {
@@ -122,19 +123,19 @@ h1 {
 	}
 
 	.right {
-		left: 1rem;
+		left: 0.1rem;
 	}
 
 	@keyframes smooth-appear-left {
 		to {
-			left: 1rem;
+			left: 0.1rem;
 			opacity: 1;
 		}
 	}
 
 	@keyframes smooth-appear-bottom {
 		to {
-			bottom: 15rem;
+			bottom: 25%;
 			opacity: 1;
 		}
 	}
